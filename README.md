@@ -1,4 +1,4 @@
-# sketchstitch
+# Sketch&Stitch
 The main purpose of this application is to create smart textiles from a sketch on fabric. 
 The application allows users to snap/upload a colored sketch.
 It then separates the sketch into a number of files, each contianing the lines of a single color.
